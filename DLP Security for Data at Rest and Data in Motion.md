@@ -4,6 +4,8 @@ DLP protects sensitive information in two major states:
 
 1. Data at Rest
 2. Data in Motion
+<img width="1536" height="1024" alt="ChatGPT Image Feb 24, 2026, 10_50_06 AM" src="https://github.com/user-attachments/assets/10350bed-1a9c-4ecf-b2b1-3b9a4b4a51d6" />
+
 
 Below is a structured explanation of how DLP secures both.
 
